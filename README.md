@@ -39,7 +39,8 @@ This analysis provides data-driven insights on platform performance and user beh
 
 7️⃣ **Downgrade Trends**  
 - **LioCinema has higher downgrade rates** than Jotstar.  
-- Downgrades decreased from **20% (Jan) to 9% (Nov)** for LioCinema.  
+- Downgrades decreased from **19% (Jan) to 7% (Nov)** for LioCinema.
+- For JotStar downgrades decreased from **13% (Jan) to 3% (Nov)**
 
 8️⃣ **Upgrade Patterns**  
 - **Jotstar:** 2,821 users upgraded from **VIP → Premium**.  
